@@ -36,7 +36,7 @@ A Google Apps Script that runs against a Google Doc containing the old page cont
 - **Red** — replacement failed (e.g. it was a subpage, or the file wasn't downloaded)
 - **Orange** — name collision detected; left untouched for manual review
 
-A full step-by-step user guide with screenshots is in the [`docs/`](docs/) folder.
+A full step-by-step user guide is in the [`docs/`](docs/) folder.
 
 ## Design Decisions
 
